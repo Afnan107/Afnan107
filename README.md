@@ -15,7 +15,7 @@
 - Created a Python-based app for streamlined campaign data management and automated reporting.
 - Designed a Power BI dashboard providing real-time insights and facilitating strategic decision-making.
 - Delivered actionable insights that optimized campaign performance, improved ROI, and supported data-driven marketing strategies.
-Impact:
+### Impact:
 - Improved campaign management efficiency by automating data handling processes.
 - Enhanced decision-making capabilities through real-time and interactive dashboards
 

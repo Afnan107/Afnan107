@@ -22,7 +22,7 @@ Impact:
 
 ![EEG Band Discovery](Afnan107/assets/img/eeg_band_discovery.jpeg)
 
-### 2.	Forecasting of Supermarket Sales using SARIMA model
+### Forecasting of Supermarket Sales using SARIMA model
 [Publication]()
 
 - Checked for seasonality and stationarity of data

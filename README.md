@@ -9,12 +9,13 @@
 ### Digital Marketing Campaign Analysis and App Development
 [Publication]()
 
-    •	Analyzed digital marketing campaigns using Python, employing advanced data preprocessing, and visualization techniques.
-    •	Executed a data-driven analysis of digital marketing campaigns using Python, applying advanced techniques like SMOTE for handling imbalanced data.
-    •	Developed and deployed a machine learning model to predict campaign success, enhancing targeting accuracy.
-    •	Created a Python-based app for streamlined campaign data management and automated reporting.
-    •	Designed a Power BI dashboard providing real-time insights and facilitating strategic decision-making.
-    •	Delivered actionable insights that optimized campaign performance, improved ROI, and supported data-driven marketing strategies.
+•	Analyzed digital marketing campaigns using Python, employing advanced data preprocessing, and visualization techniques.
+•	Executed a data-driven analysis of digital marketing campaigns using Python, applying advanced techniques like SMOTE for handling imbalanced data.
+•	Developed and deployed a machine learning model to predict campaign success, enhancing targeting accuracy.
+•	Created a Python-based app for streamlined campaign data management and automated reporting.
+•	Designed a Power BI dashboard providing real-time insights and facilitating strategic decision-making.
+•	Delivered actionable insights that optimized campaign performance, improved ROI, and supported data-driven marketing strategies.
+
 Impact:
     •	Improved campaign management efficiency by automating data handling processes.
     •	Enhanced decision-making capabilities through real-time and interactive dashboards

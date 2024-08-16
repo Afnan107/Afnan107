@@ -33,4 +33,4 @@
 - Positioned the business to better meet customer demand and enhance profitability through informed data-centric forecasting methodologies."
 
 
-![Bike Study](/assets/img/SM.jpeg)
+![Bike Study](/assets/img/SM.jpg)

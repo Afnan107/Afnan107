@@ -10,23 +10,35 @@
 [Publication]()
 
 •	Analyzed digital marketing campaigns using Python, employing advanced data preprocessing, and visualization techniques.
+
 •	Executed a data-driven analysis of digital marketing campaigns using Python, applying advanced techniques like SMOTE for handling imbalanced data.
+
 •	Developed and deployed a machine learning model to predict campaign success, enhancing targeting accuracy.
+
 •	Created a Python-based app for streamlined campaign data management and automated reporting.
+
 •	Designed a Power BI dashboard providing real-time insights and facilitating strategic decision-making.
+
 •	Delivered actionable insights that optimized campaign performance, improved ROI, and supported data-driven marketing strategies.
 
 Impact:
     •	Improved campaign management efficiency by automating data handling processes.
+
     •	Enhanced decision-making capabilities through real-time and interactive dashboards
 
 
 ![EEG Band Discovery](Afnan107/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### 2.	Forecasting of Supermarket Sales using SARIMA model
+[Publication]()
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+•	Checked for seasonality and stationarity of data
+•	Executed a data-driven sales forecasting project for a supermarket chain, employing SARIMA, Prophet, and XGBoost models to predict weekly sales.
+•	Optimized the SARIMA model to achieve the lowest MAPE of 35%, indicating high predictive accuracy for a 90-day sales dataset.
+•	Leveraged Prophet and XGBoost for comparative analysis, obtaining MAPEs of 47% and 41%, respectively, demonstrating versatility in model application.
+•	Enabled strategic inventory and staffing decisions through actionable sales insights, contributing to operational efficiency and reduced wastage.
+•	Positioned the business to better meet customer demand and enhance profitability through informed data-centric forecasting methodologies."
+
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 

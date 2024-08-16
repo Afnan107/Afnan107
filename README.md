@@ -6,8 +6,8 @@
 - Bachalors in Computer Application | Vishwakarma Institute of Technology (_May 2021_)
 
 ## Projects
-  ### Digital Marketing Campaign Analysis and App Development
-  [Publication]()
+### Digital Marketing Campaign Analysis and App Development
+[Publication]()
   
   - Analyzed digital marketing campaigns using Python, employing advanced data preprocessing, and visualization techniques.
   - Executed a data-driven analysis of digital marketing campaigns using Python, applying advanced techniques like SMOTE for handling imbalanced data.
@@ -22,8 +22,8 @@
 
 ![EEG Band Discovery](/assets/img/DM.jpg)
 
-  ### Forecasting of Supermarket Sales using SARIMA model
-  [Publication]()
+### Forecasting of Supermarket Sales using SARIMA model
+[Publication]()
   
   - Checked for seasonality and stationarity of data
   - Executed a data-driven sales forecasting project for a supermarket chain, employing SARIMA, Prophet, and XGBoost models to predict weekly sales.

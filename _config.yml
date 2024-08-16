@@ -2,4 +2,5 @@ title: Afnan Shaikh
 #logo
 #description
 show_downloads: true
-theme: jekyll-theme-minimal
+google_analytics:
+theme: jekyll-theme-leap-day

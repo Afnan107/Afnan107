@@ -7,7 +7,7 @@
 
 ## Projects
 ### Digital Marketing Campaign Analysis and App Development
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+[Publication]()
 
     •	Analyzed digital marketing campaigns using Python, employing advanced data preprocessing, and visualization techniques.
     •	Executed a data-driven analysis of digital marketing campaigns using Python, applying advanced techniques like SMOTE for handling imbalanced data.
@@ -15,12 +15,12 @@
     •	Created a Python-based app for streamlined campaign data management and automated reporting.
     •	Designed a Power BI dashboard providing real-time insights and facilitating strategic decision-making.
     •	Delivered actionable insights that optimized campaign performance, improved ROI, and supported data-driven marketing strategies.
-	Impact:
+Impact:
     •	Improved campaign management efficiency by automating data handling processes.
     •	Enhanced decision-making capabilities through real-time and interactive dashboards
 
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![EEG Band Discovery](Afnan107/assets/img/eeg_band_discovery.jpeg)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)

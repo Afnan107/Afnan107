@@ -20,7 +20,7 @@ Impact:
 - Enhanced decision-making capabilities through real-time and interactive dashboards
 
 
-![EEG Band Discovery](Afnan107/assets/img/eeg_band_discovery.jpeg)
+![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ### Forecasting of Supermarket Sales using SARIMA model
 [Publication]()
